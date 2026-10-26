@@ -35,5 +35,5 @@
   <!-- Teks & Glow Bar -->
   <text x="450" y="52" text-anchor="middle" class="hdr-title" filter="url(#glowHdr)">CONNECT</text>
   <rect class="glowbar" x="385" y="65" width="130" height="2" fill="#ffb347" filter="url(#glowHdr)" />
-  <text x="450" y="88" text-anchor="middle" class="hdr-sub">// ESTABLISHING UPLINK — DEVITA ANGGRAENI</text>
+<text x="450" y="88" text-anchor="middle" class="hdr-sub">// ESTABLISHING UPLINK — DEVITA ANGGRAENI</text>
 </svg>
